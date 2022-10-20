@@ -1,0 +1,27 @@
+{
+  "name": "mongodbbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ben-Mostyn/Desk-Booking-Back-End-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ben-Mostyn/Desk-Booking-Back-End-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Ben-Mostyn/Desk-Booking-Back-End-MongoDB#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.6.5",
+    "nodemon": "^2.0.20"
+  }
+}
